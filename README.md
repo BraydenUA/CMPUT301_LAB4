@@ -1,2 +1,1 @@
-# CMPUT301_LAB4
-Test repo for Thursday lab
+This is a test repository for CMPUT 301 Thursday lab (Winter 2022)
