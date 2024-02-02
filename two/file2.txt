@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 third line
 fourth line
-=======
 first line
 second line
->>>>>>> origin
